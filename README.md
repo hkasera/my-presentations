@@ -1,2 +1,2 @@
-# my-presentations
-A repo to store all my presentations
+# My Presentations
+A repo to store all my presentations.
