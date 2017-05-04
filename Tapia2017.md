@@ -9,3 +9,5 @@ We will share our favorite online courses, discuss ways to navigate MOOC provide
 
 ## Target Audience
 The talk is targeted towards undergraduate, graduate students and industry professionals who have a desire to excel in a field of their interest but are unaware of or overwhelmed by the existing online resources
+
+[Conference Link](http://tapiaconference.org/)
