@@ -11,3 +11,7 @@ We will share our favorite online courses, discuss ways to navigate MOOC provide
 The talk is targeted towards undergraduate, graduate students and industry professionals who have a desire to excel in a field of their interest but are unaware of or overwhelmed by the existing online resources
 
 [Conference Link](http://tapiaconference.org/)
+
+[Presentation Link](https://docs.google.com/presentation/d/1autJ5Hp6Swm4FlWjS9a4tibAgrRuTqqfSbRSTzb73J8/edit?usp=sharing)
+
+[Handout Link](https://drive.google.com/a/usc.edu/file/d/0B-Voi4gJ3tusNkNVRUJUOTQxZGM/view?usp=sharing)
