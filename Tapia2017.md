@@ -7,11 +7,13 @@ We often experience the lack of hands-on projects to supplement university-level
 
 We will share our favorite online courses, discuss ways to navigate MOOC providers, and tips to stay motivated throughout the self-paced learning process. We will also address the challenges that we faced while pursuing these courses, and offer some interesting ideas that we used. By the end of the session, attendees will leave with a list of MOOC resources, and confidence in self-paced online learning.
 
-## Target Audience
+### Conference
+[ACM Richard Tapia Celebration of Diversity in Computing 2017](http://tapiaconference.org/)
+
+### Target Audience
 The talk is targeted towards undergraduate, graduate students and industry professionals who have a desire to excel in a field of their interest but are unaware of or overwhelmed by the existing online resources
 
-[Conference Link](http://tapiaconference.org/)
-
+### Relevant Links
 [Presentation Link](https://docs.google.com/presentation/d/1autJ5Hp6Swm4FlWjS9a4tibAgrRuTqqfSbRSTzb73J8/edit?usp=sharing)
 
 [Handout Link](https://drive.google.com/a/usc.edu/file/d/0B-Voi4gJ3tusNkNVRUJUOTQxZGM/view?usp=sharing)
